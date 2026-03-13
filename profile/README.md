@@ -8,13 +8,13 @@
 
 ## Mission
 
-TECHKNOWMAD LABS is an enterprise AI/ML research lab building autonomous intelligence systems. We ship open-source tools for prompt engineering, MLOps, multi-agent orchestration, and agentic workflows.
+TECHKNOWMAD LABS is an AI/ML research lab building autonomous intelligence systems. We ship open-source tools for prompt engineering, MLOps, multi-agent orchestration, and agentic workflows.
 
 ## Flagship Projects
 
 ### [cortex](https://github.com/TECHKNOWMAD-LABS/cortex)
 
-Enterprise-grade autonomous skill suite for Claude Code and Cowork. 18 production-ready skills spanning dev lifecycle management, multi-agent orchestration, persistent memory, design intelligence, TDD enforcement, and meta-skill evolution.
+Autonomous skill suite for Claude Code and Cowork. 18 skills spanning dev lifecycle management, multi-agent orchestration, persistent memory, design intelligence, TDD enforcement, and meta-skill evolution.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Skills](https://img.shields.io/badge/Skills-18-blueviolet)
@@ -50,4 +50,4 @@ End-to-end video content pipeline for social media platforms. Covers niche resea
 
 ---
 
-*Enterprise AI/ML research advancing autonomous intelligence through open-source innovation.*
+*AI/ML research advancing autonomous intelligence through open-source tools.*
