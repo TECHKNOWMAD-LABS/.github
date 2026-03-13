@@ -1,37 +1,46 @@
 # TECHKNOWMAD LABS
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 ![Claude Code](https://img.shields.io/badge/Claude-Code-black)
 ![MLOps](https://img.shields.io/badge/Focus-MLOps-orange)
+![Skills](https://img.shields.io/badge/Skills-18-blueviolet)
 
 ## Mission
 
-TECHKNOWMAD LABS is an enterprise AI/ML research lab dedicated to building autonomous intelligence systems. We develop open-source tools and frameworks that advance the state of prompt engineering, MLOps practices, and agentic workflows.
+TECHKNOWMAD LABS is an enterprise AI/ML research lab building autonomous intelligence systems. We ship open-source tools for prompt engineering, MLOps, multi-agent orchestration, and agentic workflows.
+
+## Flagship Projects
+
+### [cortex](https://github.com/TECHKNOWMAD-LABS/cortex)
+
+Enterprise-grade autonomous skill suite for Claude Code and Cowork. 18 production-ready skills spanning dev lifecycle management, multi-agent orchestration, persistent memory, design intelligence, TDD enforcement, and meta-skill evolution.
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Skills](https://img.shields.io/badge/Skills-18-blueviolet)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+
+### [ViralForge](https://github.com/TECHKNOWMAD-LABS/ViralForge)
+
+End-to-end video content pipeline for social media platforms. Covers niche research, brand identity, content strategy, SEO optimization, scriptwriting, production workflows, platform adaptation, and analytics.
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 
 ## What We Build
 
-- **Prompt Architecture & Engineering** — Systematic approaches to designing and optimizing prompts for enterprise-scale AI systems
-- **Autonomous Agent Frameworks** — Research and implementations for building reliable, composable agentic workflows
-- **MLOps Infrastructure** — Quality enforcement, research workflow optimization, and production-grade AI systems
-- **Open-Source Research Tools** — Extensible, enterprise-tested frameworks for the AI/ML community
-
-## Featured Projects
-
-### [tkml-research-suite](https://github.com/TECHKNOWMAD-LABS/tkml-research-suite)
-
-Enterprise AI/ML research suite for Claude Code. Comprehensive toolkit for prompt architecture, research workflows, and MLOps quality enforcement.
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![Template](https://img.shields.io/badge/Use%20this%20Template-available-brightgreen)
+- **Autonomous Agent Systems** — Multi-agent orchestration, self-healing agents, swarm coordination
+- **MLOps Infrastructure** — Experiment tracking, model evaluation, zero-touch ML pipelines
+- **Prompt Engineering** — Systematic prompt architecture, Pareto-optimal prompt optimization
+- **Developer Tools** — TDD enforcement, code review automation, context management
+- **Content Automation** — Video pipelines, SEO optimization, platform-native content generation
 
 ## Technology Stack
 
-- **Language Models** — Claude, LLM-based autonomous agents
-- **ML Frameworks** — Python, PyTorch, scikit-learn
-- **Infrastructure** — MLOps, workflow orchestration, experiment tracking
-- **Development** — Claude Code, automated research workflows
+- **AI/ML** — Claude, PyTorch, scikit-learn, autonomous agents
+- **Infrastructure** — MLOps, CI/CD, Docker, experiment tracking
+- **Development** — Claude Code, Cowork, MCP servers, FastMCP
+- **Languages** — Python, TypeScript, Bash
 
 ## Connect
 
