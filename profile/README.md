@@ -1,53 +1,38 @@
 # TECHKNOWMAD LABS
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![Claude Code](https://img.shields.io/badge/Claude-Code-black)
-![MLOps](https://img.shields.io/badge/Focus-MLOps-orange)
-![Skills](https://img.shields.io/badge/Skills-18-blueviolet)
+AI/ML research lab building autonomous intelligence tools.
 
-## Mission
-
-TECHKNOWMAD LABS is an AI/ML research lab building autonomous intelligence systems. We ship open-source tools for prompt engineering, MLOps, multi-agent orchestration, and agentic workflows.
-
-## Flagship Projects
+## Repositories
 
 ### [cortex](https://github.com/TECHKNOWMAD-LABS/cortex)
-
-Autonomous skill suite for Claude Code and Cowork. 18 skills spanning dev lifecycle management, multi-agent orchestration, persistent memory, design intelligence, TDD enforcement, and meta-skill evolution.
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![Skills](https://img.shields.io/badge/Skills-18-blueviolet)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
+18 autonomous skills for AI-assisted development. Research workflows, MLOps enforcement, security auditing, agent orchestration, and developer tooling. Works natively with Claude Code and adapts to 11 platforms via MCP, LangChain, CrewAI, and OpenAI integrations.
 
 ### [ViralForge](https://github.com/TECHKNOWMAD-LABS/ViralForge)
+End-to-end video content pipeline. Automates niche research, scriptwriting, SEO optimization, visual planning, and multi-platform distribution.
 
-End-to-end video content pipeline for social media platforms. Covers niche research, brand identity, content strategy, SEO optimization, scriptwriting, production workflows, platform adaptation, and analytics.
+## Multi-Platform Availability
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
+Cortex skills run on:
 
-## What We Build
+| Platform | Integration |
+|----------|------------|
+| Claude Code | Native skills |
+| MCP (Model Context Protocol) | FastMCP servers |
+| VS Code, JetBrains, Cursor, Windsurf | MCP extensions |
+| GitHub Copilot | MCP extension |
+| LangChain | Tool classes |
+| CrewAI | Tool wrappers |
+| OpenAI | GPT Action schemas |
 
-- **Autonomous Agent Systems** — Multi-agent orchestration, self-healing agents, swarm coordination
-- **MLOps Infrastructure** — Experiment tracking, model evaluation, zero-touch ML pipelines
-- **Prompt Engineering** — Systematic prompt architecture, Pareto-optimal prompt optimization
-- **Developer Tools** — TDD enforcement, code review automation, context management
-- **Content Automation** — Video pipelines, SEO optimization, platform-native content generation
+## Security
 
-## Technology Stack
+- Automated SAST on every push (Bandit, CodeQL)
+- Secret scanning with push protection
+- Dependabot dependency monitoring
+- Coordinated vulnerability disclosure via [SECURITY.md](https://github.com/TECHKNOWMAD-LABS/.github/blob/main/SECURITY.md)
 
-- **AI/ML** — Claude, PyTorch, scikit-learn, autonomous agents
-- **Infrastructure** — MLOps, CI/CD, Docker, experiment tracking
-- **Development** — Claude Code, Cowork, MCP servers, FastMCP
-- **Languages** — Python, TypeScript, Bash
+## Links
 
-## Connect
-
-- **Website** — [techknowmad.ai](https://techknowmad.ai)
-- **Email** — [admin@techknowmad.ai](mailto:admin@techknowmad.ai)
-- **GitHub** — [@TECHKNOWMAD-LABS](https://github.com/TECHKNOWMAD-LABS)
-
----
-
-*AI/ML research advancing autonomous intelligence through open-source tools.*
+- Documentation: https://techknowmad-labs.github.io/cortex/
+- Security Policy: [SECURITY.md](https://github.com/TECHKNOWMAD-LABS/.github/blob/main/SECURITY.md)
+- Contributing: [CONTRIBUTING.md](https://github.com/TECHKNOWMAD-LABS/.github/blob/main/CONTRIBUTING.md)
