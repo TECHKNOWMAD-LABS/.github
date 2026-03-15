@@ -4,13 +4,13 @@ AI/ML research lab building autonomous intelligence tools.
 
 ## Repositories
 
-### [cortex](https://github.com/TECHKNOWMAD-LABS/cortex)
-21 autonomous skills for AI-assisted development. Research workflows, MLOps enforcement, security auditing, agent orchestration, and developer tooling. Works natively with Claude Code and adapts to 11 platforms via MCP, LangChain, CrewAI, and OpenAI integrations.
+### [cortex-research-suite](https://github.com/TECHKNOWMAD-LABS/cortex-research-suite)
+21 autonomous skills for AI-assisted development. Research workflows, MLOps enforcement, security auditing, agent orchestration, and developer tooling. Works natively with Claude Code and integrates with LangChain, CrewAI, and OpenAI via MCP adapters.
 
 ### [ViralForge](https://github.com/TECHKNOWMAD-LABS/ViralForge)
-End-to-end video content pipeline. Automates niche research, scriptwriting, SEO optimization, visual planning, and multi-platform distribution.
+Video content automation from research through distribution, including scriptwriting, SEO optimization, and cross-platform publishing.
 
-## Multi-Platform Availability
+## Cross-Platform Support
 
 Cortex skills run on:
 
@@ -29,10 +29,10 @@ Cortex skills run on:
 - Automated SAST on every push (Bandit, CodeQL)
 - Secret scanning with push protection
 - Dependabot dependency monitoring
-- Coordinated vulnerability disclosure via [SECURITY.md](https://github.com/TECHKNOWMAD-LABS/.github/blob/main/SECURITY.md)
+- Vulnerability reporting via [SECURITY.md](https://github.com/TECHKNOWMAD-LABS/.github/blob/main/SECURITY.md)
 
 ## Links
 
-- Documentation: https://techknowmad-labs.github.io/cortex/
+- Documentation: https://techknowmad-labs.github.io/cortex-research-suite/
 - Security Policy: [SECURITY.md](https://github.com/TECHKNOWMAD-LABS/.github/blob/main/SECURITY.md)
 - Contributing: [CONTRIBUTING.md](https://github.com/TECHKNOWMAD-LABS/.github/blob/main/CONTRIBUTING.md)
