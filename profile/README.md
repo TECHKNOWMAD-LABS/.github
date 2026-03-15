@@ -5,7 +5,7 @@ AI/ML research lab building autonomous intelligence tools.
 ## Repositories
 
 ### [cortex](https://github.com/TECHKNOWMAD-LABS/cortex)
-18 autonomous skills for AI-assisted development. Research workflows, MLOps enforcement, security auditing, agent orchestration, and developer tooling. Works natively with Claude Code and adapts to 11 platforms via MCP, LangChain, CrewAI, and OpenAI integrations.
+21 autonomous skills for AI-assisted development. Research workflows, MLOps enforcement, security auditing, agent orchestration, and developer tooling. Works natively with Claude Code and adapts to 11 platforms via MCP, LangChain, CrewAI, and OpenAI integrations.
 
 ### [ViralForge](https://github.com/TECHKNOWMAD-LABS/ViralForge)
 End-to-end video content pipeline. Automates niche research, scriptwriting, SEO optimization, visual planning, and multi-platform distribution.
